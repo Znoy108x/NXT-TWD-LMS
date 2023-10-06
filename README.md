@@ -28,7 +28,7 @@ Key Features:
 ### Cloning the repository
 
 ```shell
-
+https://github.com/Znoy108x/NXT-TWD-Learning-Management-System.git
 ```
 
 ### Install packages
