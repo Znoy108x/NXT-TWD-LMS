@@ -1,6 +1,6 @@
 # LMS Platform: Next.js 13,  React, Stripe, Mux, Prisma, Tailwind, MySQL
 
-This is a repository for Build an LMS Platform: Next.js 13,  React, Stripe, Mux, Prisma, Tailwind, MySQL | Full Course 2023
+This is a repository for Build an LMS Platform: Next.js 13,  React, Stripe, Mux, Prisma, Tailwind, MySQL
 
 Key Features:
 
@@ -21,16 +21,6 @@ Key Features:
 - ORM using Prisma
 - MySQL database using Planetscale
 
-### Prerequisites
-
-**Node version 18.x.x**
-
-### Cloning the repository
-
-```shell
-https://github.com/Znoy108x/NXT-TWD-Learning-Management-System.git
-```
-
 ### Install packages
 
 ```shell
@@ -38,7 +28,6 @@ npm i
 ```
 
 ### Setup .env file
-
 
 ```js
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
